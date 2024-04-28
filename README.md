@@ -21,6 +21,7 @@ Moreover, user details from the signup and login pages are automatically integra
 <img width="174" alt="Screenshot 2024-04-28 at 3 27 41 PM" src="https://github.com/abhik1029/English-Dictionary-with-Connectivity-to-Database/assets/164001169/88ac8194-9c02-442f-8016-52eae2ea3757">
 
 
+<img width="373" alt="image" src="https://github.com/abhik1029/English-Dictionary-with-Connectivity-to-Database/assets/164001169/62a41baf-3f0c-4bf3-885f-37a462a2c46a">
 
 
 
