@@ -13,6 +13,8 @@ Moreover, user details from the signup and login pages are automatically integra
 <img width="1398" alt="Screenshot 2024-04-28 at 2 47 22 PM" src="https://github.com/abhik1029/English-Dictionary-with-Connectivity-to-Database/assets/164001169/e4bd8a57-7ebc-4f3a-aba6-efaf543f385f">
 
 Testing Connectivity With Database:
+
+
 <img width="598" alt="Screenshot 2024-04-28 at 3 33 36 PM" src="https://github.com/abhik1029/English-Dictionary-with-Connectivity-to-Database/assets/164001169/4e5c2e4b-d598-4715-ab49-0d3c4ad0e492">
 
 <img width="639" alt="Screenshot 2024-04-28 at 3 34 07 PM" src="https://github.com/abhik1029/English-Dictionary-with-Connectivity-to-Database/assets/164001169/8c079b3b-02a4-4e1b-9052-33ae194a758a">
@@ -26,6 +28,8 @@ Testing Connectivity With Database:
 
 
 Testing Connectivity With Node.JS:
+
+
 <img width="702" alt="Screenshot 2024-04-28 at 3 37 49 PM" src="https://github.com/abhik1029/English-Dictionary-with-Connectivity-to-Database/assets/164001169/04a65811-db45-4fe7-8549-75cfa94b4043">
 
 <img width="642" alt="Screenshot 2024-04-28 at 3 38 16 PM" src="https://github.com/abhik1029/English-Dictionary-with-Connectivity-to-Database/assets/164001169/c5c899f9-3b93-4eb7-b44b-9b5ee2e85147">
