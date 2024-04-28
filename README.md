@@ -26,10 +26,11 @@ Testing Connectivity With Database:
 
 
 Testing Connectivity With Node.JS:
-<img width="373" alt="image" src="https://github.com/abhik1029/English-Dictionary-with-Connectivity-to-Database/assets/164001169/64400226-cb16-4c7f-a565-632db081d99f">
-<img width="311" alt="image" src="https://github.com/abhik1029/English-Dictionary-with-Connectivity-to-Database/assets/164001169/051fa443-78ba-4ed7-a579-dd47a0f1565c">
-<img width="523" alt="image" src="https://github.com/abhik1029/English-Dictionary-with-Connectivity-to-Database/assets/164001169/43c8ea45-7f10-4e39-9877-276d0d767d20">
+<img width="702" alt="Screenshot 2024-04-28 at 3 37 49 PM" src="https://github.com/abhik1029/English-Dictionary-with-Connectivity-to-Database/assets/164001169/04a65811-db45-4fe7-8549-75cfa94b4043">
 
+<img width="642" alt="Screenshot 2024-04-28 at 3 38 16 PM" src="https://github.com/abhik1029/English-Dictionary-with-Connectivity-to-Database/assets/164001169/c5c899f9-3b93-4eb7-b44b-9b5ee2e85147">
+
+<img width="704" alt="Screenshot 2024-04-28 at 3 38 38 PM" src="https://github.com/abhik1029/English-Dictionary-with-Connectivity-to-Database/assets/164001169/afff9817-4dd2-4b01-95a6-896032fe680a">
 
 
 
