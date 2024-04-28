@@ -1,8 +1,8 @@
 # English-Dictionary-with-Connectivity-to-Database
 
-This project comprises key web pages such as home, dictionary, login/signup, and contact us. Leveraging HTML, CSS, JS, AngularJS, NodeJs, and Database technologies, we've integrated both front-end and back-end functionalities. With AngularJS, we've implemented alert boxes and page redirections, while NodeJs seamlessly handles our "Contact Us" form, sending user emails directly to our inbox.
+This project comprises key web pages such as home, dictionary, login/signup and contact us. Leveraging HTML, CSS, JS, AngularJS, NodeJs and Database technologies, we've integrated both front-end and back-end functionalities. With AngularJS, we've implemented alert boxes and page redirections, while NodeJs seamlessly handles our "Contact Us" form, sending user emails directly to our inbox.
 
-Moreover, user details from the signup and login pages are automatically integrated into our database for efficient management. Additionally, search words from the dictionary page are automatically saved in our database, enabling us to gather insights, track trends, and further refine our strategies for improvement.
+Moreover, user details from the signup and login pages are automatically integrated into our database for efficient management. Additionally, search words from the dictionary page are automatically saved in our database, enabling us to gather insights, track trends and further refine our strategies for improvement.
 
 <img width="1424" alt="Screenshot 2024-04-28 at 2 45 29 PM" src="https://github.com/abhik1029/English-Dictionary-with-Connectivity-to-Database/assets/164001169/2e5d2d07-0537-4288-a483-7b475d8c3a29">
 <img width="1391" alt="Screenshot 2024-04-28 at 2 45 40 PM" src="https://github.com/abhik1029/English-Dictionary-with-Connectivity-to-Database/assets/164001169/b76c3b79-5cd8-4476-b86a-598eaa6ef5d1">
