@@ -12,19 +12,24 @@ Moreover, user details from the signup and login pages are automatically integra
 <img width="1420" alt="Screenshot 2024-04-28 at 2 47 15 PM" src="https://github.com/abhik1029/English-Dictionary-with-Connectivity-to-Database/assets/164001169/7f0fce17-544a-4b8b-8d6c-e62726a5cffc">
 <img width="1398" alt="Screenshot 2024-04-28 at 2 47 22 PM" src="https://github.com/abhik1029/English-Dictionary-with-Connectivity-to-Database/assets/164001169/e4bd8a57-7ebc-4f3a-aba6-efaf543f385f">
 
-<img width="293" alt="Screenshot 2024-04-28 at 3 27 53 PM" src="https://github.com/abhik1029/English-Dictionary-with-Connectivity-to-Database/assets/164001169/5d4ef809-e5ce-43c9-9bb7-027a904368b8">
-
-<img width="312" alt="Screenshot 2024-04-28 at 3 26 56 PM" src="https://github.com/abhik1029/English-Dictionary-with-Connectivity-to-Database/assets/164001169/41d6abd3-5ac6-4293-a919-3cd3b9ac7d1e">
-
-<img width="594" alt="Screenshot 2024-04-28 at 3 27 11 PM" src="https://github.com/abhik1029/English-Dictionary-with-Connectivity-to-Database/assets/164001169/01c1cada-84a3-4e52-b5ba-5c93c8bfb19d">
-
-<img width="174" alt="Screenshot 2024-04-28 at 3 27 41 PM" src="https://github.com/abhik1029/English-Dictionary-with-Connectivity-to-Database/assets/164001169/88ac8194-9c02-442f-8016-52eae2ea3757">
-
-
-<img width="373" alt="image" src="https://github.com/abhik1029/English-Dictionary-with-Connectivity-to-Database/assets/164001169/62a41baf-3f0c-4bf3-885f-37a462a2c46a">
+Testing Connectivity With Database:
+<img width="598" alt="Screenshot 2024-04-28 at 3 33 36 PM" src="https://github.com/abhik1029/English-Dictionary-with-Connectivity-to-Database/assets/164001169/a3d81a48-7f1c-412b-bf29-f970e8aeb9c7">
+<img width="639" alt="Screenshot 2024-04-28 at 3 34 07 PM" src="https://github.com/abhik1029/English-Dictionary-with-Connectivity-to-Database/assets/164001169/597
+<img width="719" alt="Screenshot 2024-04-28 at 3 34 32 PM" src="https://github.com/abhik1029/English-Dictionary-with-Connectivity-to-Database/assets/164001169/2e9b3a58-899c-41d0-a680-1b2fe1591b5b">
+da657-ea37-48fd-8461-63
+<img width="658" alt="Screenshot 2024-04-28 at 3 34 55 PM" src="https://github.com/abhik1029/English-Dictionary-with-Connectivity-to-Database/assets/164001169/e290d311-ad58-4853-af74-b5d5067c6280">
+16d7443f85">
 
 
 
+
+
+
+
+Testing Connectivity With Node.JS:
+<img width="373" alt="image" src="https://github.com/abhik1029/English-Dictionary-with-Connectivity-to-Database/assets/164001169/64400226-cb16-4c7f-a565-632db081d99f">
+<img width="311" alt="image" src="https://github.com/abhik1029/English-Dictionary-with-Connectivity-to-Database/assets/164001169/051fa443-78ba-4ed7-a579-dd47a0f1565c">
+<img width="523" alt="image" src="https://github.com/abhik1029/English-Dictionary-with-Connectivity-to-Database/assets/164001169/43c8ea45-7f10-4e39-9877-276d0d767d20">
 
 
 
